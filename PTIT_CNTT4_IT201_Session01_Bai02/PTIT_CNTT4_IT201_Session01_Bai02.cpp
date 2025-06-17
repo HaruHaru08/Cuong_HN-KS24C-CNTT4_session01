@@ -5,4 +5,4 @@ void printDouble(int n){
         i*=2;
     }
 }
-//Do phuc tap thoi gian:O(2n)
+//Do phuc tap thoi gian:O(log n)
